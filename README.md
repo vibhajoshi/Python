@@ -1,3 +1,8 @@
+The 3rd project "Treasure Island", it's a game where you have to find the treasure. 
+![image](https://github.com/vibhajoshi/Python/assets/73216270/25ef4a8a-9fcd-49b7-850c-aff69298ffaa)
+
+
+
 For 6th project 6hangman.py also download hangmanwords.py and hangman_art.py for ASCII arts and as well as wordlist to play the game.
 
 Instructions : You need to guess a word, by filling _ _ _ _ _ lettters and you'll be having 6 lives. If you fail to guess a letter you'll lose a life. And by each stage if you loose all your 6 lives you'll be hunged. 
