@@ -1,6 +1,9 @@
 The 3rd project "Treasure Island", it's a game where you have to find the treasure. 
 ![image](https://github.com/vibhajoshi/Python/assets/73216270/25ef4a8a-9fcd-49b7-850c-aff69298ffaa)
 
+The 4th project, it's a well known game, that is Rock Paper Scissors. You can play that game with computer:)
+![image](https://github.com/vibhajoshi/Python/assets/73216270/96f3cf45-aa5c-4f5b-ba2a-0836f5084fc8)
+
 
 
 For 6th project 6hangman.py also download hangmanwords.py and hangman_art.py for ASCII arts and as well as wordlist to play the game.
